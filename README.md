@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @srinijalanda93
-- 👀 I’m interested in DSA, EDA,ML CONCEPTS
-- 🌱 I’m pursuing My Master's at Christ University as an MSAIML student.
+
 
 
 <!---
