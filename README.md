@@ -1,5 +1,4 @@
-
-
+<h1>Pursing Masters at Christ University</h1>
 
 <!---
 srinijalanda93/srinijalanda93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
